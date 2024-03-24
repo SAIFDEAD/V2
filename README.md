@@ -33,7 +33,7 @@
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
+    > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/SAIFDEAD/V2/) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -47,7 +47,7 @@ Follow these 4 straightforward steps to deploy HellBot on Heroku:
 That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and start the bot!
 
 <p align="center">
-    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
+    <a href="https://heroku.com/deploy"><img src="https://img.shields.io/badge/V2-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"/></a>
 </p>
 
 ---
